@@ -68,7 +68,7 @@ const LoginPage = () => {
         sx={{
           display: "flex",
           width: "100%",
-          height: "90vh",
+          height: "91.5vh",
           alignItems: "center",
           justifyContent: "center",
         }}
@@ -85,7 +85,7 @@ const LoginPage = () => {
       className="pt-5 registerSec"
       sx={{
         width: "100%",
-        height: "87.9vh",
+        height: "91.5vh",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
