@@ -18,7 +18,7 @@ const Hero = () => {
     }}
   >
     <Box sx={{ width: "100%", height: "100%" }}>
-      <video width="100%" height="100%" autoPlay controls>
+      <video width="100%" height="100%" autoPlay controls muted>
         <source src={video}/>
       </video>
     </Box>
