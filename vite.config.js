@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server : {
     proxy : {
-      '/api' : {
+      "/api" : {
         target : "https://auth-backend-93eo.onrender.com",
         changeOrigin : true,
         secure : false
